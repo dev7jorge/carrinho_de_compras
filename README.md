@@ -35,7 +35,7 @@
 ## 🎲 Rodando o Projeto 
 
 ###### 1ª Clone este repositório
-* git clone https://github.com/devjorgesousa/carrinho_de_compras.git
+* git clone https://github.com/dev7jorge/carrinho_de_compras.git
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd ou Visual Studio Code, após descompactar o arquivo carrinho_de_compras-main.zip.
 * cd carrinho_de_compras-main
